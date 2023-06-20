@@ -1,0 +1,146 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0; 
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.navlogo{
+    height: 30px;
+    /*background-color: red;*/
+}
+
+.navlogo .logo{
+    float: top;
+    margin-left: 30px;
+    line-height: 100px;
+
+}
+
+.navlogo .logo img{
+    height: 300px;
+    vertical-align: center;
+}
+
+.navbar .menu{
+    float:center;
+margin-left: 25%;
+margin-right: auto;
+    list-style: none;
+}
+
+.navbar .menu li{
+    float: left;
+    margin-right: 100px;
+    line-height: 100px;
+
+}
+
+.navbar .menu a{
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+}
+
+.search .custom-form{
+margin-left: 25%;
+margin-top: 80px;
+}
+
+.search .custom-form .custom-search{
+font-size: 20px;
+    width: 700px;
+    height: 50px;
+
+}
+
+.search .custom-form .custom-search-button{
+font-size: 20px;
+    width: 80px;
+    height: 50px;
+
+}
+
+.bar{
+    height:10px;
+    background-size: cover;
+    background-color: lightgrey;
+    background-position: center;
+margin-top: 150px;
+}
+
+.Product_pic img{
+    position: relative;
+    bottom: 0px;
+	top:50px;
+    width: 425px;
+    height: 425px;
+margin-left: 10%;
+}
+
+.Product_info input{
+    width: 110px;
+    height: 50px;
+margin-left: 70%;
+}
+
+.Product_info .custom-buy-button{
+font-size: 20px;
+
+}
+
+
+.Product_info {
+position: relative;
+  bottom: 430px;
+width:700px;
+height: 100px;
+  font-size: 40px;
+    font-weight: bold;
+    text-decoration: none;
+margin-left:50%;
+    color: black;
+}
+
+
+.Product_info .a2{
+  font-size: 30px;
+    text-decoration: none;
+text-allign: center;
+    color: black;
+}
+
+.Product_detail {
+position: relative;
+left: 25%;
+bottom: 1100px;
+width:700px;
+height: 100px;
+    color: black;
+}
+.Product_detail img{
+width:1000px;
+height: 1300px;
+    color: black;
+}
+.footer {
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 80px;
+}
+.footer a{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.footer img{
+    height: 30px;
+}
+
+.footer2 {
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 80px;
+}
